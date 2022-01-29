@@ -1,0 +1,10 @@
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\obj\Release\Light_Dots.Form1.resources
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\obj\Release\Light_Dots.Properties.Resources.resources
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\obj\Release\Light_Dots.csproj.GenerateResource.cache
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\obj\Release\Light_Dots.csproj.CoreCompileInputs.cache
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\bin\Release\Light_Dots.exe.config
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\bin\Release\Light_Dots.exe
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\bin\Release\Light_Dots.pdb
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\obj\Release\Light_Dots.csprojAssemblyReference.cache
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\obj\Release\Light_Dots.exe
+E:\Б-А\MyPrograms\Funni_programs\Light_Dots\Light_Dots\obj\Release\Light_Dots.pdb
